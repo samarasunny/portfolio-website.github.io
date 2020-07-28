@@ -584,6 +584,15 @@ h2{
 .skills-container .skills:nth-child(5) .percent .progress{
     background: linear-gradient(45deg , #22ffde,#2196f3);
 }
+.skills-container .skills:nth-child(6) .percent .progress{
+    background: linear-gradient(45deg , #1fe6ff,#673ab7);
+}
+.skills-container .skills:nth-child(7) .percent .progress{
+    background: linear-gradient(45deg , #3bc0ff,#33ff00);
+}
+.skills-container .skills:nth-child(8) .percent .progress{
+    background: linear-gradient(45deg , #22ffde,#2196f3);
+}
 
 /* End Skills section */
 
